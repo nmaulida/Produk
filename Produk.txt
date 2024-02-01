@@ -1,0 +1,4 @@
+A, Pilus Garuda, 2000
+B, Biskuit, 5000
+C, Ciki, 3000
+D, Oreo, 2000
